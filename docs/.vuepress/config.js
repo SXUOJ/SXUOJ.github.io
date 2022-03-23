@@ -23,7 +23,7 @@ module.exports = {
   theme: '@vuepress/theme-default',
   themeConfig: {
     logo: 'https://vuejs.org/images/logo.png',
-    repo: 'https://github.com/Sxu-Online-Judge/sxu-online-judge.io',
+    repo: 'https://github.com/Sxu-Online-Judge/sxu-online-judge.github.io',
     branch: 'master',
     navbar: [
       { text: 'Demo', link: 'https://sxu.sx.cn' },
