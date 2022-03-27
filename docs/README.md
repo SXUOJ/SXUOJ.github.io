@@ -7,9 +7,6 @@ actions:
   - text: 项目简介
     link: /guide/docs.md
     type: secondary
-  - text: Api说明
-    link: /api/api.md
-    type: primary
 
 features:
   - title: 高效性
@@ -21,4 +18,3 @@ features:
 footerHtml: true
 footer: <a href = "https://github.com/Sxu-Online-Judge">项目地址</a>
 ---
-
