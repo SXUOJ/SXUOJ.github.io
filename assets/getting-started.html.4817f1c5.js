@@ -1,1 +1,0 @@
-const t={key:"v-fb0f0066",path:"/guide/getting-started.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Getting-start",slug:"getting-start",children:[]}],git:{updatedTime:1648033786e3,contributors:[{name:"isther",email:"28251536@qq.com",commits:1}]},filePathRelative:"guide/getting-started.md"};export{t as data};
