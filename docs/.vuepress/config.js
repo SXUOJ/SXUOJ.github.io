@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'SxuOJ',
+  title: 'SXUOJ',
   lang: 'zh-CN',
   description: '简洁、高效、安全',
   
@@ -26,6 +26,8 @@ module.exports = {
     repo: 'https://github.com/Sxu-Online-Judge/sxu-online-judge.github.io',
     branch: 'master',
     navbar: [
+      { text: '首页', link: '/'},
+      { text: 'Api说明', link: '/api/api.md' },
       { text: 'Demo', link: 'https://sxu.sx.cn' },
     ],
   },
