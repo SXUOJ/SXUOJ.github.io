@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'SXUOJ',
+  title: 'SXUOJ --- 构建中...',
   lang: 'zh-CN',
   description: '简洁、高效、安全',
   
