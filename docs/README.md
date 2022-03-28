@@ -16,5 +16,5 @@ features:
   - title: 多样性
     details: 支持 Special Judge、选择题和函数题。比赛可设置多种赛制(ACM/OI)。多语言支持：C/C++/Golang/Java/Python2/Python3。
 footerHtml: true
-footer: <a href = "https://github.com/Sxu-Online-Judge">项目地址</a>
+footer: <a href = "https://github.com/SXUOJ">项目地址</a>
 ---
